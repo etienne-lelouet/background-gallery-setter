@@ -10,3 +10,10 @@ Supports multiple screens, and tries to match each picture to the best screen, b
 python3-pil
 feh
 ```
+
+# TODO
+- Proper argument parser
+- Make it so that the program chooses the "best fit" for each screen
+- Make a systemd unit
+- Have proper logging
+- Use `ImageMagick` to be cooler
